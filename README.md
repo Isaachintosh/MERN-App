@@ -18,6 +18,8 @@
 
     O fluxo de desenvolvimento do projeto seguirá as seguintes etapas:
 
+    - Back-End
+
     [  ] Instalação e configuração do Node.js
 
     [  ] Configuração do projeto em json
@@ -32,4 +34,8 @@
 
     [  ] Testes de execução do Express no código, usando script automatizado
 
-    [  ] 
+    [  ] ...
+
+    Front-End:
+
+    [  ] ...
